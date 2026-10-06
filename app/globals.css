@@ -109,6 +109,7 @@ nav.scrolled {
 
 .nav-links {
   display: flex;
+  align-items: center;
   gap: 30px;
   font-family: var(--mono);
   font-size: 13px;
