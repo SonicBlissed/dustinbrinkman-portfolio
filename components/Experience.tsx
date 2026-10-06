@@ -1,8 +1,8 @@
 const jobs = [
   {
     company: 'Puttshack',
-    role: 'Senior Front End Web Developer — led a micro-frontend redesign empowering marketing to ship independently; React, TypeScript, Vue/Svelte/Blazor.',
-    years: '2022 — Present',
+    role: 'Senior Full Stack Developer — led a micro-frontend redesign empowering marketing to ship independently; Java Spring Boot microservices on Kubernetes & AWS; React, React Native, Vue 3.',
+    years: '2022 — 2026',
   },
   {
     company: 'Relevnt',

@@ -9,7 +9,7 @@ export default function Hero() {
           Dustin<br />Brinkman<span className="amber">.</span>
         </h1>
         <div className="role reveal">
-          Full Stack Engineer · React · TypeScript · Node · Python
+          Full Stack Engineer · React · TypeScript · Java · Python
         </div>
         <p className="lede reveal">
           I build complete products end to end — from the front-end UI down to the{' '}

@@ -5,7 +5,7 @@ const categories = [
   },
   {
     label: '// back end & data',
-    skills: ['Node.js','Python','REST APIs','WebSockets','PostgreSQL','Supabase','MongoDB','SQL Server','Auth / zero-knowledge'],
+    skills: ['Node.js','Java / Spring Boot','Python','REST APIs','WebSockets','PostgreSQL','Supabase','MongoDB','SQL Server','Auth / zero-knowledge'],
   },
   {
     label: '// mobile & game',
@@ -13,7 +13,7 @@ const categories = [
   },
   {
     label: '// cloud & ai',
-    skills: ['Fly.io','Netlify','Docker','Git / GitHub','AI / LLM tooling','AI-assisted dev'],
+    skills: ['AWS','Kubernetes','Docker','Fly.io','Netlify','Git / GitHub','AI / LLM tooling','AI-assisted dev'],
   },
 ]
 

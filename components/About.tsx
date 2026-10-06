@@ -24,7 +24,7 @@ export default function About() {
           <div className="fact"><span>Experience</span><b>8+ years</b></div>
           <div className="fact"><span>Focus</span><b>Full stack · web + mobile</b></div>
           <div className="fact"><span>Front end</span><b>React / TS / Vue / Svelte</b></div>
-          <div className="fact"><span>Back end</span><b>Node.js · Python</b></div>
+          <div className="fact"><span>Back end</span><b>Java · Node.js · Python</b></div>
           <div className="fact"><span>Data</span><b>PostgreSQL · MongoDB</b></div>
           <div className="fact"><span>Based in</span><b>Florida, US</b></div>
         </div>
